@@ -46,14 +46,14 @@ sports_image_classifier/
 ---
 
 ## 🌟 **Key Features**
-- ⚡ **End-to-end ML workflow** — preprocessing → training → evaluation → saving models
-- 🔁 **Data augmentation** for improved generalization
-- 🎯 **Transfer Learning** with state-of-the-art architectures
-- 📊 **Visual training metrics** including accuracy & loss curves
-- 🧮 **Confusion matrix** + **classification report** with precision, recall, F1
-- 📷 **Live predictions** with visual output
-- 💾 **Model exporting** (H5, SavedModel formats)
-- 🧩 **Fully customizable** for new classes or datasets
+-  **End-to-end ML workflow** — preprocessing → training → evaluation → saving models
+-  **Data augmentation** for improved generalization
+- **Transfer Learning** with state-of-the-art architectures
+- **Visual training metrics** including accuracy & loss curves
+-  **Confusion matrix** + **classification report** with precision, recall, F1
+- **Live predictions** with visual output
+- **Model exporting** (H5, SavedModel formats)
+-  **Fully customizable** for new classes or datasets
 
 ---
 
@@ -109,11 +109,11 @@ jupyter notebook sports_image_classifier.ipynb
 
 ## 📊 **Training Results & Evaluation**
 The notebook automatically generates:
-- **📈 Accuracy Curves** (train vs validation)
-- **📉 Loss Curves** (train vs validation)
-- **🧮 Confusion Matrix**
-- **📝 Classification Report**
-- **📷 Sample Predictions**
+- **Accuracy Curves** (train vs validation)
+- **Loss Curves** (train vs validation)
+- **Confusion Matrix**
+- **Classification Report**
+- **Sample Predictions**
 
 For example:
 <p align="center">
@@ -136,10 +136,10 @@ model = tf.keras.models.load_model('models/sports_classifier.h5')
 
 ## 🚀 **Deployment Options**
 After training, you can deploy the model via:
-- 🌐 **Flask / FastAPI** (REST API)
-- 🎨 **Streamlit** (interactive web app)
-- 📱 **TensorFlow Lite** (Android/iOS mobile)
-- 🖥️ **ONNX Runtime** (cross-platform inference)
+-  **Flask / FastAPI** (REST API)
+- **Streamlit** (interactive web app)
+- **TensorFlow Lite** (Android/iOS mobile)
+- **ONNX Runtime** (cross-platform inference)
 
 ---
 
@@ -168,10 +168,10 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ **Support the Project**
+##  **Support the Project**
 If you find this project helpful:
 - ⭐ Star the repository
 - 🍴 Fork it and build your own version
-- 🔗 Share with others
+- 
 
 ---
